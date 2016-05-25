@@ -10,3 +10,7 @@ This is for testing.
 6. merge
 
 -----------------------------------------------------
+
+1. add a file
+2. edit README.md
+3. synchronize
