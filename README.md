@@ -1,5 +1,4 @@
 graffiti
-========
 
 This is for testing.
 1. create branch1
@@ -10,3 +9,7 @@ This is for testing.
 6. merge
 
 -----------------------------------------------------
+
+1. add a file
+2. edit README.md
+3. synchronize
